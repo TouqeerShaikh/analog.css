@@ -62,3 +62,12 @@ a{
     font-size: larger;
     font-family: Arial, Helvetica, sans-serif;
 }
+.cnct{
+    margin: 0px 0px 0px 0px;
+}
+.name{
+    margin-top: 80px;
+}
+.name:hover, .cnct:hover{
+    color: red;
+}
